@@ -2,7 +2,7 @@
 
 ### Getting started
 
-```shell
+```ShellSession
 npm install -g webpack # for the webpack command
 npm install
 npm start

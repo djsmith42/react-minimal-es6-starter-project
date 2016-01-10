@@ -1,6 +1,6 @@
 ## Minimal React ES6 Starter Project
 
-### Getting started
+### Quick Start
 
 ```ShellSession
 npm install -g webpack # for the webpack command
@@ -8,6 +8,7 @@ npm install
 npm start
 # Go to http://localhost:8080
 ```
+You wanted minimal, so don't read any of the stuff below.
 
 ### Project description
 
@@ -29,5 +30,5 @@ This project **does** have:
  * React
  * Webpack
  * ES6 (via Babel)
- * JSX
+ * JSX (via Babel)
  * Browser auto-refresh on code change

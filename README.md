@@ -19,6 +19,7 @@ This project **does not** have:
 
  * Hot module reloading
  * Production deployment
+ * Gulp/Grunt
  * Unit tests
  * CSS pre-processor
  * CSS modules

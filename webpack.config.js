@@ -4,9 +4,9 @@ module.exports = {
   entry: './app/index.js',
 
   output: {
-    path: 'build',
-    filename: 'bundle.js',
-    publicPath: 'http://localhost:8080/build'
+    path: './build',
+    filename: 'bundle.js', // deployable file
+    publicPath: 'http://localhost:8080/build' // dev server
   },
 
   module: {

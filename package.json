@@ -1,13 +1,8 @@
 {
   "name": "react-minimal-es6-starter-project",
-  "version": "1.0.0",
-  "description": "Minimal React ES6 Starter Project",
   "scripts": {
-    "start": "webpack-dev-server --progess --colors --content-base app --port 8080",
-    "build": "webpack"
+    "start": "webpack-dev-server --progess --colors --content-base app --port 8080"
   },
-  "author": "Dave Smith",
-  "license": "MIT",
   "dependencies": {
     "react": "^0.x.x",
     "react-dom": "^0.x.x"

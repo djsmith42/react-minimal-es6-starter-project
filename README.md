@@ -16,6 +16,14 @@ This project aims to provide the **bare minimum** to get started with React in E
 If you've been frustrated by the massive size of other starter projects, this may
 be nicer for you.  
 
+This project provides:
+
+ * React
+ * Webpack
+ * ES6 (via Babel)
+ * JSX (via Babel)
+ * Browser auto-refresh on code change
+
 This project **does not** have:
 
  * Hot module reloading
@@ -24,11 +32,5 @@ This project **does not** have:
  * Unit tests
  * CSS pre-processor
  * CSS modules
-
-This project **does** have:
-
- * React
- * Webpack
- * ES6 (via Babel)
- * JSX (via Babel)
- * Browser auto-refresh on code change
+ * Lint
+ * And much more!!

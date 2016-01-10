@@ -18,8 +18,10 @@ be nicer for you.
 This project **does not** have:
 
  * Hot module reloading
- * Production deployment example
+ * Production deployment
  * Unit tests
+ * CSS pre-processor
+ * CSS modules
 
 This project **does** have:
 

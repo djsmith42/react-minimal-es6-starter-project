@@ -5,6 +5,5 @@ export default class Home extends React.Component {
     <div>
       <h1>Hello, world!</h1>
       <p>This is a minimal React ES6 project.</p>
-      <p>Keepin' it minimal, friends.</p>
     </div>
 }

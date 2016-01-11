@@ -1,4 +1,4 @@
-import React from 'react'; // without this, I get ReferenceError: React is not defined. Don't know why.
+import React from 'react'; // Needed because the <Home> JSX below transforms to React.createElement(...)
 import ReactDOM from 'react-dom';
 import Home from './home';
 

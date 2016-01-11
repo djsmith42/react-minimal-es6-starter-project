@@ -2,6 +2,12 @@
 
 A starter project as small as humanly possible. If you can you make it smaller, I'll give you a hug.
 
+### 90 seconds
+
+You can seriously read every line of code in this project in 90 seconds. Even if you read pretty
+carefully. It's puny. In fact, it will take you longer to read this README than all the rest of
+the files in this project, combined!
+
 ### Quick Start
 
 ```ShellSession

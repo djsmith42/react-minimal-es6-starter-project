@@ -1,5 +1,7 @@
 ## Minimal React ES6 Starter Project
 
+A starter project as small as humanly possible. If you can you make it smaller, I'll give you a hug.
+
 ### Quick Start
 
 ```ShellSession
@@ -14,7 +16,8 @@ You wanted minimal, so don't read any of the stuff below.
 
 This project aims to provide the **bare minimum** to get started with React in ES6.
 If you've been frustrated by the massive size of other starter projects, this may
-be nicer for you.  
+be nicer for you. Just look at that package.json. It's tiny! Small webpack config?
+You got it!
 
 This project provides:
 

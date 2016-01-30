@@ -8,8 +8,11 @@
     "react-dom": "^0.x.x"
   },
   "devDependencies": {
-    "babel": "5.x.x",
-    "babel-core": "5.x.x",
-    "babel-loader": "5.x.x"
+    "babel-core": "6.x.x",
+    "babel-loader": "6.x.x",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "webpack": "^2.0.6-beta"
   }
 }

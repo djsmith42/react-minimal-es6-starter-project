@@ -14,9 +14,8 @@ module.exports = {
       {
         test: /\.jsx?$/,      
         loader: 'babel-loader',
-        include: path.resolve(__dirname, "app"), // must be fully qualified file path
-        query: {stage: 0} // enable ES7 features, like fat arrow class methods
+        include: path.resolve(__dirname, "app") // must be fully qualified file path
       }
-    ]
-  }
+    ],
+  },
 };

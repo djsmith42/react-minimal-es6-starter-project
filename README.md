@@ -11,7 +11,6 @@ the files in this project, combined!
 ### Quick Start
 
 ```ShellSession
-npm install -g webpack # for the webpack command
 npm install
 npm start
 # Go to http://localhost:8080
